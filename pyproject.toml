@@ -17,6 +17,8 @@ scipy = "^1.14.1"
 latex = "^0.7.0"
 torch = "^2.4.1"
 torchvision = "^0.19.1"
+pandas = "^2.3.3"
+tqdm = "^4.67.1"
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.8.0"
